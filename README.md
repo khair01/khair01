@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khair Muhammad</h1>
 <h3 align="center">Enthusiastic undergraduate student with a passion for machine learning and data science.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/QFLl.gif">
+<img align="right" alt="Coding" width="300" \ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khair01&label=Profile%20views&color=0e75b6&style=flat" alt="khair01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khair01" alt="khair01" /></a> </p>
